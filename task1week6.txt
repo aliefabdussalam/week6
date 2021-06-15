@@ -1,0 +1,7 @@
+0. mulai
+1. input sebuah kata
+2. bagi kata menjadi perhuruf dan beri nomor pada setiap hurufnya
+3. tukar posisi huruf secara terbalik(dari nomor terbesar ke terkecil)
+4. jika tidak ada perubahan pada kata maka output palindrom
+5. apabila ada perubahan maka output bukan palindrom
+6. selesai

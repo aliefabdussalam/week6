@@ -1,0 +1,6 @@
+0. mulai
+1. masukkan kalimat
+2. bagi kalimat ke perkata dan beri nomor
+3. tukarkan susunan kalimat secara terbalik (nomor terbesar ke terkecil)
+4. output kalimat dengan susunan terbalik
+5. selesai
