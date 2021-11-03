@@ -1,0 +1,13 @@
+Mulai
+Inputkan teks "Surabaya"
+Masukan teks ke variable input, buat variable temp lalu variable ouput
+Hitung banyaknya karakter di teks dan masukan ke variable x
+Cek nilai variable x apakah lebih besar dari 0
+apabila True cek apakah karakter tersebut merupakan karakter huruf a
+Jika Karakter bukan karakter huruf a Tampilkan karakter berdasarkan urutan nilai dari variable x dan masukan ke variable temp
+Setelah itu kurangi 1 nilai variable x dan ulangi step ke 5
+Jika Karakter merupakan karakter huruf a tampilkan nilai variable temp, rubah karakter a menjadi o, variable output dan masukan ke variable output
+Reset nilai variable temp
+Setelah itu kurangi 1 nilai variable x dan ulangi step ke 5
+Jika False Tampilkan variable output
+Selesai
